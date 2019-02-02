@@ -13,7 +13,7 @@ import com.google.gson.JsonArray;
 import com.google.gson.JsonObject;
 import com.google.gson.JsonParser;
 
-public class Project1 {
+public class Style {
 			
 	public HttpURLConnection process1() throws IOException {
 		// 1. HTTP 占쏙옙체
